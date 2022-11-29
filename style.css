@@ -118,4 +118,143 @@ li input {
     height: 326px;
     left: 100px;
     top: 1015px;
+    border-radius: 5px;
+    background-color: #888888;
+}
+
+.harga{
+    position: absolute;
+    width: 400px;
+    height: 131px;
+    left: 100px;
+    top: 1210px;
+
+    background: black;
+    border-radius: 15px;
+}
+
+.duit{
+    position: absolute;
+    width: 124px;
+    height: 36px;
+    left: 351px;
+    top: 1221px;
+    color: white;
+}
+
+.judul{
+    position: absolute;
+    width: 97px;
+    height: 30px;
+    left: 125px;
+    top: 1224px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+
+.bawah{
+    position: absolute;
+    width: 145px;
+    height: 30px;
+    left: 125px;
+    top: 1255px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+
+.logo img{
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 125px;
+    top: 1299px;
+    border-radius: 100px;
+}
+.nama h3{
+    position: absolute;
+    width: 80px;
+    height: 15px;
+    left: 166px;
+    top: 1304px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 15px;
+    color: white;
+}
+
+.nama p{
+    position: absolute;
+    width: 39px;
+    height: 15px;
+    left: 166px;
+    top: 1318px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    color: white;
+}
+
+
+.ong .duit p{
+    position: absolute;
+    width: 116px;
+    height: 18px;
+    left: -90px;
+    top: 80px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: white;
+}
+
+.ong .duit h4{
+    position: absolute;
+    width: 57px;
+    height: 18px;
+    left: -90px;
+    top: 100px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: white;
+}
+
+.pesan{
+    position: absolute;
+    width: 130px;
+    height: 42px;
+    left: 360px;
+    top: 1299px;
+    background: #315AEF;
+    border-radius: 10px 10px 15px 10px;
+}
+
+.pesan p{
+    position: absolute;
+    width: 100px;
+    height: 23px;
+    left: 20px;
+    top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+    color: white;
 }
